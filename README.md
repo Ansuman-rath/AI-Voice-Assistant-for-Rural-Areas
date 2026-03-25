@@ -2,7 +2,7 @@
 
 A voice-based assistant designed to improve digital accessibility for users in rural areas, enabling interaction with technology through simple speech commands instead of complex interfaces.
 
-![Civic](./rural1.jpgg)
+![Civic](./rural1.jpg)
 ![Health](./rural2.png)
 ![Agent](./rural3.jpg)
 ![n8n Workflow](./rural4.jpg)
