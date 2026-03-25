@@ -1,73 +1,71 @@
-# Welcome to your Lovable project
+# 🎙️ Voice Assistant for Rural Accessibility
 
-## Project info
+A voice-based assistant designed to improve digital accessibility for users in rural areas, enabling interaction with technology through simple speech commands instead of complex interfaces.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 📌 Overview
 
-There are several ways of editing your application.
+This project focuses on bridging the digital divide by creating an intuitive voice interface that allows users to access information and services without needing advanced technical knowledge or literacy.
 
-**Use Lovable**
+The assistant is designed to work in low-resource environments, making it suitable for rural and underserved communities.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Features
 
-**Use your preferred IDE**
+- 🎤 Voice-based interaction (no typing required)
+- 🌐 Access to essential information (weather, general queries, etc.)
+- 🧠 Simple and intuitive command processing
+- 🔊 Audio responses for better accessibility
+- 📶 Designed to work in low-connectivity scenarios (basic functionality)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
 
-Follow these steps:
+- Python  
+- Speech Recognition  
+- Text-to-Speech (TTS)  
+- Basic NLP processing  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🎯 Objectives
 
-# Step 3: Install the necessary dependencies.
-npm i
+- Improve accessibility for non-technical users  
+- Reduce dependency on text-based interfaces  
+- Enable inclusive technology usage in rural areas  
+- Provide a foundation for further expansion into multilingual and offline systems  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🔍 How It Works
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+1. User gives a voice command  
+2. Speech is converted to text  
+3. System processes the command  
+4. Appropriate response is generated  
+5. Response is converted back to speech  
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📈 Future Improvements
 
-## What technologies are used for this project?
+- 🌍 Multilingual support (regional languages)  
+- 📡 Full offline functionality  
+- 🤖 More advanced NLP for better understanding  
+- 📱 Mobile integration  
+- 🔗 Integration with government/local services  
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🤝 Contribution
 
-## How can I deploy this project?
+This project is open to ideas and improvements. Contributions are welcome!
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 📄 License
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+This project is open-source and available under the MIT License.
